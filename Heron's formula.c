@@ -9,5 +9,5 @@ int main()
   ar=sqrt(s*(s-a)*(s-b)*(s-c));
   printf("The area of the triangle is=%f",ar);
 
-    return 0;
+    
 }
